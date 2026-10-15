@@ -9,9 +9,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=36BCF7&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/your-username?style=for-the-badge&color=36BCF7&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=ryuuu924&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ryuuu924?style=for-the-badge&color=36BCF7&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/ryuuu924?style=for-the-badge&color=36BCF7&labelColor=0d1117)
 
 <br/>
 

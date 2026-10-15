@@ -128,29 +128,6 @@ Leveling up my fundamentals and data toolkit.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ryuuu924&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuu924&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ryuuu924&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryuuu924&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ryuuu924&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
 ## 🌱 Currently Focusing On
 
 <div align="center">

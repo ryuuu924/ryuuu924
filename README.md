@@ -27,7 +27,7 @@
 
 ```yaml
 name:     Yuri
-role:     Aspiring Full-Stack Developer
+role:     BS Computer Science Student / Aspiring Full-Stack Developer
 status:   Student — learning by shipping
 focus:    Front-end ➜ Full-stack
 motto:    "Build things that are useful, playful, and visually polished."

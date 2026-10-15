@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Yuri%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/ryuuu924">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;Android+%2B+Web+Builder;I+learn+by+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 

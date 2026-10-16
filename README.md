@@ -7,13 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;Android+%2B+Web+Builder;I+learn+by+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ryuuu924&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ryuuu924?style=for-the-badge&color=36BCF7&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/ryuuu924?style=for-the-badge&color=36BCF7&labelColor=0d1117)
-
-<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryuuu924)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuri-yabut)
